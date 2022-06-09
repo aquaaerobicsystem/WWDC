@@ -1,6 +1,6 @@
 # WWDC22
 
-### Videos
+### Session Videos
 - Keynote: https://developer.apple.com/videos/play/wwdc2022/101/ 
 - Platform Keynote: https://developer.apple.com/videos/play/wwdc2022/102/ 
 - Design Awards: https://developer.apple.com/videos/play/wwdc2022/103/ 
