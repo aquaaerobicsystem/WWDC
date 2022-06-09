@@ -32,3 +32,4 @@
 - Challenge: Bindless Ray Tracing: https://developer.apple.com/news/?id=s25p399b
 - Challenge: Design for Navigation: https://developer.apple.com/news/?id=7fljwpcf
 - Challenge: SwiftUI Animation Extravaganza: https://developer.apple.com/news/?id=ycmer78i
+- ...more to come
