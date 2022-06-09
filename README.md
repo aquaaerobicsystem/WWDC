@@ -22,4 +22,13 @@
 - Hello Swift Charts: https://developer.apple.com/videos/play/wwdc2022/10166/
 - ...more to come
 
-### Sessions
+### Coding Challenges
+- Challenge: SwiftUI navigation hotdish: https://developer.apple.com/news/?id=4a3k7k30
+- Challenge: You can build an App for that:  https://developer.apple.com/news/?id=jc6o4k3r
+- Challenge: Go Big or Go Home: https://developer.apple.com/news/?id=rwtqc7me 
+- Challenge: WidgetKit Workshop: https://developer.apple.com/news/?id=2q8t97ob 
+- Challenge: SwiftUI Science Fiction: https://developer.apple.com/news/?id=f4phvjei
+- Challenge: Private Access Tokens: https://developer.apple.com/news/?id=huqjyh7k
+- Challenge: Bindless Ray Tracing: https://developer.apple.com/news/?id=s25p399b
+- Challenge: Design for Navigation: https://developer.apple.com/news/?id=7fljwpcf
+- Challenge: SwiftUI Animation Extravaganza: https://developer.apple.com/news/?id=ycmer78i
